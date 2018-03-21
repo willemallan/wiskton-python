@@ -10,6 +10,5 @@ idade = 29
 if media >= 6:
 	# print("Parabéns você passou! Sua nota final foi %s" % media)
 	print("Olá {0}! Sua nota final foi {1}! Parabéns você passou!".format(nome, media))
-	fwefwe
 else:
-print("Reprovado!")
+	print("Reprovado!")
